@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: Ben M3-TRT's Page!
 ---
